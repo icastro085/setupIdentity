@@ -1,7 +1,7 @@
 ## Exemplo de como testar
 Os passo abaixo é para ser usado para testar localmente, no final não precisa fazer nada para armazenar no cookie as informações, elas serão feitas o "log" é apenas para mostrar que finalizou, mas todas as informações já estarão no cookie, e caso ja esteja armazenado não fará a request pro server.
 
-##Como importart o script
+##Como importar o script
 - Tag HTML
 
 ```html
